@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Informações do Projeto
 `AGENDAMENTO DE CONSULTAS`  
 
@@ -8,6 +9,18 @@ Trabalho Interdisciplinar - Aplicacões Web
 `SEMESTRE: 1 PERIODO `
 
 `OBJETIVO:` 
+=======
+# AGENDAMENTO DE CONSULTAS
+
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
+
+` Trabalho Interdisciplinar: Aplicações Web`
+
+Apesar de já existirem alguns sistemas de agendamento, muitos ainda são pouco práticos, difíceis de usar ou não oferecem todas as funcionalidades que o paciente precisa.
+
+Além disso, em muitos casos, o paciente precisa ir até o consultório só para pegar uma receita ou um laudo, mesmo já tendo feito a consulta. Isso é um transtorno, principalmente para quem tem dificuldade de locomoção, mora longe ou simplesmente tem uma rotina apertada.
+
+>>>>>>> f184106b3003702581219f075cf4e34f15d4e596
 O objetivo principal é desenvolver um aplicativo completo e fácil de usar, que permita:
 
 * Agendar consultas presenciais ou online com médicos e outros profissionais de saúde;
@@ -15,6 +28,7 @@ O objetivo principal é desenvolver um aplicativo completo e fácil de usar, que
 * Solicitar e receber receitas e laudos médicos de forma digital;
 * Acompanhar o histórico de atendimentos e documentos, tudo em um só lugar.
 
+<<<<<<< HEAD
 ## Participantes
 
 Os membros do grupo são: 
@@ -60,4 +74,21 @@ Aprenda Markdown e use-o para documentar o projeto
 > [Sintaxe básica de gravação e formatação no GitHub](https://guides.github.com/features/mastering-markdown/)
 
 > [Suporte Github](https://help.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+=======
+## Integrantes
+
+* Victor Eduardo F. Nunes
+* Fernando Silva Menezes
+* Charles Reis Francisco Mendes
+* Matheus Duarte Viana
+* Lucas Cassiano Nogueira Marques
+* Kailany Moreira Soares
+
+# Documentação
+
+
+# Hospedagem
+
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. 
+>>>>>>> f184106b3003702581219f075cf4e34f15d4e596
 
